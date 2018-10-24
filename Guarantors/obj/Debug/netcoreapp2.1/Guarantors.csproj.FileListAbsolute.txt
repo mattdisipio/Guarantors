@@ -1,0 +1,11 @@
+C:\Users\mattd\git\Guarantors\Guarantors\bin\Debug\netcoreapp2.1\Guarantors.deps.json
+C:\Users\mattd\git\Guarantors\Guarantors\bin\Debug\netcoreapp2.1\Guarantors.runtimeconfig.json
+C:\Users\mattd\git\Guarantors\Guarantors\bin\Debug\netcoreapp2.1\Guarantors.runtimeconfig.dev.json
+C:\Users\mattd\git\Guarantors\Guarantors\bin\Debug\netcoreapp2.1\Guarantors.dll
+C:\Users\mattd\git\Guarantors\Guarantors\obj\Debug\netcoreapp2.1\Guarantors.csprojAssemblyReference.cache
+C:\Users\mattd\git\Guarantors\Guarantors\obj\Debug\netcoreapp2.1\Guarantors.csproj.CoreCompileInputs.cache
+C:\Users\mattd\git\Guarantors\Guarantors\obj\Debug\netcoreapp2.1\Guarantors.AssemblyInfoInputs.cache
+C:\Users\mattd\git\Guarantors\Guarantors\obj\Debug\netcoreapp2.1\Guarantors.AssemblyInfo.cs
+C:\Users\mattd\git\Guarantors\Guarantors\bin\Debug\netcoreapp2.1\Guarantors.pdb
+C:\Users\mattd\git\Guarantors\Guarantors\obj\Debug\netcoreapp2.1\Guarantors.dll
+C:\Users\mattd\git\Guarantors\Guarantors\obj\Debug\netcoreapp2.1\Guarantors.pdb
